@@ -23,6 +23,7 @@ Following are the navigations for:
 
 * / - colab code file
 * videos/ - contains the video dataset used for testing
+* my_transformer_weights/ - saved weights of transformer
 * images/ - conatins project flow diagram and result images
 
 

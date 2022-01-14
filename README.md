@@ -10,11 +10,11 @@
 * Concatenating captions and summarizing them.  
 
 <p> The entire flow of the methodology has been illustrated in Figure given below. </p>
-<img src="images/image1.png" alt="Project Flow Diagram"/>
+<img src="images/Image1.png" alt="Project Flow Diagram"/>
 
 <h2> Results </h2>
-<img src="images/image2.png" alt="Generated summary for the video Input1 containing Olympic games."/>
-<img src="images/image3.png" alt="Generated summary for the video Input4 containing several dog activities."/>
+<img src="images/Image2.png" alt="Generated summary for the video Input1 containing Olympic games."/>
+<img src="images/Image3.png" alt="Generated summary for the video Input4 containing several dog activities."/>
 
 <br />
 

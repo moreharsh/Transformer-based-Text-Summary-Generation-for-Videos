@@ -33,8 +33,9 @@ All the members of Team Inferno are students of Second Year Information Technolo
 
 
 * Harsh More
+* Dhruva Khanwelkar
+* Chirag Vaswani
 * Juhi Rajani
 * Nirvisha Soni
-* Dhruva Khanwelkar
 
 <br />

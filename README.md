@@ -31,7 +31,7 @@ Following are the navigations for:
 <a href="https://github.com/moreharsh/Video-Summary-Generation"> https://github.com/moreharsh/Video-Summary-Generation </a>
 
 <h2>About the Team</h2>
-All the members of Team Inferno are students of Second Year Information Technology Department of Vishwakarma Institute of Technology, Pune.
+All the members of team are students of Second Year Information Technology Department of Vishwakarma Institute of Technology, Pune.
 
 
 * Harsh More
